@@ -1,0 +1,8 @@
+globals()['cleared_slot'] = 
+def my_function(globals()['abc_slot']):
+    globals()['abc_slot'] = ''
+
+globals()['xyz'] = 
+def my_function(globals()['abc_slot']):
+    globals()['abc_slot'] = ''
+
